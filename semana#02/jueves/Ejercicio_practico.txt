@@ -1,0 +1,15 @@
+Ejercicio práctico
+
+Crear un programa con un menú que contenga las siguientes opciones:
+
+1.Crear vector: Solicitar al usuario la cantidad de elementos y crear un vector con asignación dinámica.
+
+2.Cargar vector: Permitir al usuario ingresar los valores para cargar el vector creado anteriormente.
+
+3.Mostrar vector: Recorrer el vector y mostrar por pantalla todos los elementos almacenados.
+
+4.Salir: Terminar el programa (recordar liberar la memoria reservada).
+
+NOTA: No permitir volver a solicitar memoria, una vez que esta misma haya sido asignada.
+
+Este ejercicio les permitirá practicar los conceptos de asignación dinámica de memoria.
